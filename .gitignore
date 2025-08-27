@@ -1,0 +1,6 @@
+.idea
+app-*
+lang_old
+original
+app.asar
+php/.idea
